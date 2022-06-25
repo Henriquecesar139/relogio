@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#container {
+    margin-top: 20%;
+    border: gray 1px solid;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 200%;
+}
